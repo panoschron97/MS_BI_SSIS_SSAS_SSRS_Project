@@ -1,4 +1,4 @@
-# MS_BI_SSIS_SSAS_SSRS_Project
+# A microsoft business intelligence SSIS - SSAS - SSRS project
 
 This repository contains a project related to Microsoft Business Intelligence (MS BI) technologies, specifically focusing on SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), and SQL Server Reporting Services (SSRS). The project appears to involve data integration, analysis, and reporting components, potentially aimed at building a comprehensive business intelligence solution.
 
