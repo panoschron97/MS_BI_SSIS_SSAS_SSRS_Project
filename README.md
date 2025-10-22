@@ -1,6 +1,6 @@
 # A microsoft business intelligence SSIS - SSAS - SSRS project
 
-This repository contains a project related to Microsoft Business Intelligence (MS BI) technologies, specifically focusing on SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), and SQL Server Reporting Services (SSRS). The project appears to involve data integration, analysis, and reporting components, potentially aimed at building a comprehensive business intelligence solution.
+This repository contains a project related to Microsoft Business Intelligence (MS BI) technologies specifically focusing on SQL Server Integration Services (SSIS), SQL Server Analysis Services (SSAS), and SQL Server Reporting Services (SSRS). The project appears to involve data integration, analysis and reporting components potentially aimed at building a comprehensive business intelligence solution.
 
 ## Table of Contents
 1.  [Features](#features)
@@ -15,7 +15,7 @@ This repository contains a project related to Microsoft Business Intelligence (M
 *   Data modeling and analysis using SSAS cubes and dimensions.
 *   Report creation and deployment using SSRS.
 *   Sample data in various formats (txt, xlsx) for testing and demonstration.
-*   Project files for SSIS, SSAS, and SSRS components.
+*   Project files for SSIS, SSAS and SSRS components.
 *   Potential integration with Excel for data analysis.
 
 ## Installation
@@ -29,7 +29,7 @@ This repository contains a project related to Microsoft Business Intelligence (M
 
 2.  Set up the required SQL Server environment with the necessary components (SSIS, SSAS, SSRS).
 
-3.  Create a database named `MSBI` in SQL Server, or configure the connection strings in the project files to point to your existing database.
+3.  Create a database named `MSBI` in SQL Server or configure the connection strings in the project files to point to your existing database.
 
 ## Usage
 
