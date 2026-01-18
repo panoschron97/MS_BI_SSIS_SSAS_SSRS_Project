@@ -23,7 +23,7 @@ This repository contains a project related to Microsoft Business Intelligence (M
 1.  Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/panoschron97/MS_BI_SSIS_SSAS_SSRS_Project.git
+    git clone https://github.com/GMKAKISTOS/MS_BI_SSIS_SSAS_SSRS_Project.git
     cd MS_BI_SSIS_SSAS_SSRS_Project
     ```
 
